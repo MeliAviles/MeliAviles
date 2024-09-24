@@ -13,7 +13,8 @@ As an actuary with a strong foundation in mathematics, analytics, and logical pr
 ◦ HTTP
 ◦ CSS
 
-##Feel free to reach out to me:
+## Feel free to reach out to me:
+
 ✉️ mel.avilesg@gmail.com
 <!--
 **MeliAviles/MeliAviles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
